@@ -18,7 +18,7 @@ Standard Go packages are allowed
 ## How to Run
 1. Clone the repository:
 ```bash
- git clone https://learn.zone01kisumu.ke/git/allkamau/go-reloaded.git
+ git clone https://github.com/Githaiga22/go-reloaded.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -86,3 +86,12 @@ The project currently does not have automated tests. You can manually test the f
 This project will help you learn about:
 - The Go file system (fs) API
 - String and numbers manipulation
+
+## Authors
+
+- Githaiga22
+
+
+## Github Profiles
+
+- GitHub Profile: [Githaiga22](https://github.com/Githaiga22)
